@@ -1,11 +1,11 @@
 import React from "react";
-import "./App.css";
-import Header from "./Header";
-import Footer from "./Footer";
+import "/src/pages/MainPage/MainPage";
+import Header from "/src/components/header/Header";
+import Footer from "/src/components/footer/Footer";
 
-function App() {
+function MainPage() {
   return (
-    <div className="App">
+    <div className="MainPage">
       <React.StrictMode>
         <Header />
         <h3>choose language</h3>
@@ -21,4 +21,4 @@ function App() {
   );
 }
 
-export default App;
+export default MainPage;

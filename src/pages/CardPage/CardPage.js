@@ -1,6 +1,6 @@
-import Card from "./Card";
+import Card from "/src/components/card/index";
 import React from "react";
-import "./App.css";
+import "/src/pages/MainPage/MainPage";
 
 function CardPage() {
     return (
