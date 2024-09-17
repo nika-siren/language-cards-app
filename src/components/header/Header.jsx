@@ -1,5 +1,5 @@
 import React from "react";
-import "../../pages/MainPage/MainPage";
+import "../../pages/MainPage/MainPage.css";
 
 function Header () {
     return (

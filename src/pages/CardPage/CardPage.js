@@ -1,6 +1,6 @@
 import Card from "/src/components/card/index";
 import React from "react";
-import "/src/pages/MainPage/MainPage";
+import "../../pages/MainPage/MainPage.css";
 
 function CardPage() {
     return (
