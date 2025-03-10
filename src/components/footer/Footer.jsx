@@ -3,7 +3,7 @@ import "../../pages/MainPage/MainPage.css";
 
 function Footer() {
     return (
-      <div className="Footer">
+      <div className="footer">
         <h2>water lily cards</h2>
       </div>
     );
